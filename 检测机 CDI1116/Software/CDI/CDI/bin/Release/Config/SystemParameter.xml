@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SystemParameter xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BaseClassList />
+  <IsSimulation>false</IsSimulation>
+  <Name>SystemParameter</Name>
+  <Enabled>false</Enabled>
+  <CurrentProduct />
+  <VacuumDelayTime>500</VacuumDelayTime>
+  <ThicknessMeasDelayTime>500</ThicknessMeasDelayTime>
+  <LoadInSMEMAIgnored>true</LoadInSMEMAIgnored>
+  <UnloadOutSMEMAIgnored>true</UnloadOutSMEMAIgnored>
+</SystemParameter>

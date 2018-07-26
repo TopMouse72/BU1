@@ -1,0 +1,40 @@
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\bin\Release\CDIVisionControl.dll
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\bin\Release\CDIVisionControl.pdb
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\bin\Release\Colibri.CommonModule.dll
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.FormCalibration.resources
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csproj.GenerateResource.Cache
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csproj.CoreCompileInputs.cache
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.dll
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.pdb
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.VisionSetting.resources
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csproj.CopyComplete
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\bin\Release\CDIVisionControl.dll
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\bin\Release\CDIVisionControl.pdb
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\bin\Release\Colibri.CommonModule.dll
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csprojAssemblyReference.cache
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.FormCalibration.resources
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.VisionSetting.resources
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csproj.GenerateResource.cache
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csproj.CoreCompileInputs.cache
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csproj.CopyComplete
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.dll
+D:\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.pdb
+D:\BU1\检测机 CDI1116\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csprojAssemblyReference.cache
+E:\share\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csprojResolveAssemblyReference.cache
+E:\share\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.FormCalibration.resources
+E:\share\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.VisionSetting.resources
+E:\share\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csproj.GenerateResource.Cache
+E:\share\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.dll
+E:\share\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.pdb
+E:\share\Software\CameraVision\CDIVisionControl\bin\Release\CDIVisionControl.dll
+E:\share\Software\CameraVision\CDIVisionControl\bin\Release\CDIVisionControl.pdb
+E:\share\Software\CameraVision\CDIVisionControl\bin\Release\Colibri.CommonModule.dll
+E:\Software\CameraVision\CDIVisionControl\bin\Release\CDIVisionControl.dll
+E:\Software\CameraVision\CDIVisionControl\bin\Release\CDIVisionControl.pdb
+E:\Software\CameraVision\CDIVisionControl\bin\Release\Colibri.CommonModule.dll
+E:\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csprojResolveAssemblyReference.cache
+E:\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.FormCalibration.resources
+E:\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.VisionSetting.resources
+E:\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.csproj.GenerateResource.Cache
+E:\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.dll
+E:\Software\CameraVision\CDIVisionControl\obj\Release\CDIVisionControl.pdb

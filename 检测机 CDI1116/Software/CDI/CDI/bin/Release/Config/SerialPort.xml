@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Root>
+   <OutlineMeasLightController portname="COM5" stopbits="One" baudrate="19200" parity="None" databits="8" />
+   <ThicknessSensorLeft parity="Even" stopbits="Two" databits="7" baudrate="4800" portname="COM2" />
+   <ThicknessSensorMid portname="COM3" stopbits="Two" baudrate="4800" databits="7" parity="Even" />
+   <ThicknessSensorRight portname="COM4" stopbits="Two" baudrate="4800" parity="Even" databits="7" />
+</Root>

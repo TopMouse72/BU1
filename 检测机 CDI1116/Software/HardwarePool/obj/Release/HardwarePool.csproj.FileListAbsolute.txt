@@ -1,0 +1,60 @@
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\bin\Release\HardwarePool.dll
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\bin\Release\HardwarePool.pdb
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\bin\Release\Colibri.CommonModule.dll
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\bin\Release\Colibri.MotionModule.Googol.dll
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\bin\Release\Colibri.SerialPortControl.dll
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\bin\Release\HardWareEnum.dll
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\bin\Release\Colibri.CommonModule.pdb
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\bin\Release\en\Colibri.CommonModule.resources.dll
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\obj\Release\HardwarePool.csprojResolveAssemblyReference.cache
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\obj\Release\HardwarePool.dll
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardwarePool\obj\Release\HardwarePool.pdb
+C:\Users\CDI\Desktop\HardwarePool\bin\Release\HardwarePool.dll
+C:\Users\CDI\Desktop\HardwarePool\bin\Release\HardwarePool.pdb
+C:\Users\CDI\Desktop\HardwarePool\bin\Release\Colibri.CommonModule.dll
+C:\Users\CDI\Desktop\HardwarePool\bin\Release\Colibri.MotionModule.Googol.dll
+C:\Users\CDI\Desktop\HardwarePool\bin\Release\Colibri.SerialPortControl.dll
+C:\Users\CDI\Desktop\HardwarePool\bin\Release\HardWareEnum.dll
+C:\Users\CDI\Desktop\HardwarePool\bin\Release\Colibri.CommonModule.pdb
+C:\Users\CDI\Desktop\HardwarePool\bin\Release\en\Colibri.CommonModule.resources.dll
+C:\Users\CDI\Desktop\HardwarePool\obj\Release\HardwarePool.csprojResolveAssemblyReference.cache
+C:\Users\CDI\Desktop\HardwarePool\obj\Release\HardwarePool.dll
+C:\Users\CDI\Desktop\HardwarePool\obj\Release\HardwarePool.pdb
+D:\CDI\HardwarePool\bin\Release\HardwarePool.dll
+D:\CDI\HardwarePool\bin\Release\HardwarePool.pdb
+D:\CDI\HardwarePool\bin\Release\Colibri.CommonModule.dll
+D:\CDI\HardwarePool\bin\Release\Colibri.MotionModule.Googol.dll
+D:\CDI\HardwarePool\bin\Release\Colibri.SerialPortControl.dll
+D:\CDI\HardwarePool\bin\Release\HardWareEnum.dll
+D:\CDI\HardwarePool\obj\Release\HardwarePool.csprojResolveAssemblyReference.cache
+D:\CDI\HardwarePool\obj\Release\HardwarePool.dll
+D:\CDI\HardwarePool\obj\Release\HardwarePool.pdb
+C:\Users\CDI\Desktop\Software\HardwarePool\bin\Release\HardwarePool.dll
+C:\Users\CDI\Desktop\Software\HardwarePool\bin\Release\HardwarePool.pdb
+C:\Users\CDI\Desktop\Software\HardwarePool\bin\Release\Colibri.CommonModule.dll
+C:\Users\CDI\Desktop\Software\HardwarePool\bin\Release\Colibri.MotionModule.Googol.dll
+C:\Users\CDI\Desktop\Software\HardwarePool\bin\Release\Colibri.SerialPortControl.dll
+C:\Users\CDI\Desktop\Software\HardwarePool\bin\Release\HardWareEnum.dll
+C:\Users\CDI\Desktop\Software\HardwarePool\obj\Release\HardwarePool.csprojResolveAssemblyReference.cache
+C:\Users\CDI\Desktop\Software\HardwarePool\obj\Release\HardwarePool.dll
+C:\Users\CDI\Desktop\Software\HardwarePool\obj\Release\HardwarePool.pdb
+D:\BU1\检测机 CDI1116\Software\HardwarePool\bin\Release\HardwarePool.dll
+D:\BU1\检测机 CDI1116\Software\HardwarePool\bin\Release\HardwarePool.pdb
+D:\BU1\检测机 CDI1116\Software\HardwarePool\bin\Release\Colibri.CommonModule.dll
+D:\BU1\检测机 CDI1116\Software\HardwarePool\bin\Release\Colibri.MotionModule.Googol.dll
+D:\BU1\检测机 CDI1116\Software\HardwarePool\bin\Release\Colibri.SerialPortControl.dll
+D:\BU1\检测机 CDI1116\Software\HardwarePool\bin\Release\HardWareEnum.dll
+D:\BU1\检测机 CDI1116\Software\HardwarePool\obj\Release\HardwarePool.csproj.CoreCompileInputs.cache
+D:\BU1\检测机 CDI1116\Software\HardwarePool\obj\Release\HardwarePool.dll
+D:\BU1\检测机 CDI1116\Software\HardwarePool\obj\Release\HardwarePool.pdb
+D:\BU1\检测机 CDI1116\Software\HardwarePool\obj\Release\HardwarePool.csproj.CopyComplete
+D:\BU1\检测机 CDI1116\Software\HardwarePool\obj\Release\HardwarePool.csprojAssemblyReference.cache
+E:\share\Software\HardwarePool\bin\Release\HardwarePool.dll
+E:\share\Software\HardwarePool\bin\Release\HardwarePool.pdb
+E:\share\Software\HardwarePool\bin\Release\Colibri.CommonModule.dll
+E:\share\Software\HardwarePool\bin\Release\Colibri.MotionModule.Googol.dll
+E:\share\Software\HardwarePool\bin\Release\Colibri.SerialPortControl.dll
+E:\share\Software\HardwarePool\bin\Release\HardWareEnum.dll
+E:\share\Software\HardwarePool\obj\Release\HardwarePool.csprojResolveAssemblyReference.cache
+E:\share\Software\HardwarePool\obj\Release\HardwarePool.dll
+E:\share\Software\HardwarePool\obj\Release\HardwarePool.pdb

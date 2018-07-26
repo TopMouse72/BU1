@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Root>
+   <BarcodeRead endwithfeedline="False" decode_size="0" startcommand_inputformat="String" endstring="#" stopcommand="" endwithreturn="False" startcommandend="" decode_startindex="0" timeoutsetting="6000" startcommand_inputstring="S" returnerror="" receivedsize="1" />
+   <LightControl endwithfeedline="False" decode_size="0" startcommand_inputformat="String" endstring="#" stopcommand="" endwithreturn="False" startcommandend="" decode_startindex="0" timeoutsetting="6000" startcommand_inputstring="S" returnerror="" receivedsize="2" />
+   <ThicknessRead endwithfeedline="False" decode_size="0" startcommand_inputformat="String" endstring="" stopcommand="" endwithreturn="True" startcommandend="" decode_startindex="0" timeoutsetting="6000" startcommand_inputstring="?" returnerror="ERR" receivedsize="20" />
+   <ThicknessPreSet timeoutsetting="6000" endwithfeedline="False" decode_size="0" startcommandend="" endstring="" startcommand_inputformat="String" returnerror="" decode_startindex="0" endwithreturn="True" receivedsize="4" stopcommand="" startcommand_inputstring="PRE" />
+</Root>

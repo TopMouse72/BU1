@@ -1,0 +1,134 @@
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.csproj.ResolveComReference.cache
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.DataDisp.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.VacuumSettingDisp.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.AutoPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.BasePanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.CalibrationPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.CCDCalibPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.GRRPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ThicknessCalibPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ConfigurationPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualOperationPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.MessageBoxVacuumHandle.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.MonitorPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ProductPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.BaseZoneManualPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZoneNG挑选机械手.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone上料传送.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone上料机械手.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone下料传送.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone下料机械手.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone传送机械手.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone厚度测量.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone外框架.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone尺寸测量.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone顶封边定位.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.BaseZoneSettingPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZoneNG挑选机械手.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone上料传送.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone上料机械手.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone下料传送.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone下料机械手.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone传送机械手.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone厚度测量.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone外框架.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone尺寸测量.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone顶封边定位.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.MainForm.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.Properties.Resources.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.csproj.GenerateResource.Cache
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.csproj.CoreCompileInputs.cache
+d:\CDI exe\CDI.exe.config
+d:\CDI exe\CDI.exe
+d:\CDI exe\CDI.pdb
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.exe
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.pdb
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.csproj.CopyComplete
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.GUI.TestPanel.resources
+D:\BU1\检测机 CDI1116\Software\CDI\CDI\obj\Release\CDI.csprojAssemblyReference.cache
+E:\share\Software\CDI\CDI\obj\Release\CDI.csprojResolveAssemblyReference.cache
+E:\share\Software\CDI\CDI\obj\Release\CDI.csproj.ResolveComReference.cache
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.DataDisp.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.VacuumSettingDisp.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.AutoPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.BasePanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.CalibrationPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.CCDCalibPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.GRRPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ThicknessCalibPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ConfigurationPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualOperationPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.MessageBoxVacuumHandle.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.MonitorPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ProductPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.BaseZoneManualPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZoneNG挑选机械手.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone上料传送.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone上料机械手.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone下料传送.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone下料机械手.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone传送机械手.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone厚度测量.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone外框架.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone尺寸测量.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone顶封边定位.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.BaseZoneSettingPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZoneNG挑选机械手.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone上料传送.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone上料机械手.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone下料传送.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone下料机械手.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone传送机械手.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone厚度测量.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone外框架.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone尺寸测量.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone顶封边定位.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.MainForm.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.GUI.TestPanel.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.Properties.Resources.resources
+E:\share\Software\CDI\CDI\obj\Release\CDI.csproj.GenerateResource.Cache
+E:\share\Software\CDI\CDI\obj\Release\CDI.exe
+E:\share\Software\CDI\CDI\obj\Release\CDI.pdb
+E:\Software\CDI\CDI\obj\Release\CDI.csprojResolveAssemblyReference.cache
+E:\Software\CDI\CDI\obj\Release\CDI.csproj.ResolveComReference.cache
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.DataDisp.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.VacuumSettingDisp.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.AutoPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.BasePanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.CalibrationPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.CCDCalibPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.GRRPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ThicknessCalibPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ConfigurationPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualOperationPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.MessageBoxVacuumHandle.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.MonitorPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ProductPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.BaseZoneManualPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZoneNG挑选机械手.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone上料传送.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone上料机械手.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone下料传送.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone下料机械手.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone传送机械手.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone厚度测量.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone外框架.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone尺寸测量.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.ManualPanelZone顶封边定位.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.BaseZoneSettingPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZoneNG挑选机械手.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone上料传送.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone上料机械手.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone下料传送.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone下料机械手.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone传送机械手.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone厚度测量.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone外框架.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone尺寸测量.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.SettingPanelZone顶封边定位.resources
+E:\Software\CDI\CDI\obj\Release\CDI.MainForm.resources
+E:\Software\CDI\CDI\obj\Release\CDI.GUI.TestPanel.resources
+E:\Software\CDI\CDI\obj\Release\CDI.Properties.Resources.resources
+E:\Software\CDI\CDI\obj\Release\CDI.csproj.GenerateResource.Cache
+E:\Software\CDI\CDI\obj\Release\CDI.exe
+E:\Software\CDI\CDI\obj\Release\CDI.pdb

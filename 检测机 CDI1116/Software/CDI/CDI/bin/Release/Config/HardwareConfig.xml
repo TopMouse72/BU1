@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<HardwareInfoList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DamageInList />
+  <DamageOutList />
+  <Hardwares>
+    <HardwareInfo>
+      <ver>1.0.0.0</ver>
+      <Description>Original designed motor/inport/outport layout.</Description>
+      <UpdateDate>2016/11/26</UpdateDate>
+    </HardwareInfo>
+  </Hardwares>
+</HardwareInfoList>

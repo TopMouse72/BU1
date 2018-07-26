@@ -1,0 +1,28 @@
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\bin\Release\WinSock.exe.config
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\bin\Release\WinSock.exe
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\bin\Release\WinSock.pdb
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\bin\Release\Colibri.CommonModule.dll
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\obj\Release\WinSock.csprojResolveAssemblyReference.cache
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\obj\Release\WinSockTest.Form1.resources
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\obj\Release\WinSock.Properties.Resources.resources
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\obj\Release\WinSock.csproj.GenerateResource.Cache
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\obj\Release\WinSock.exe
+F:\KuaiPan\hchen\Documents\Visual Studio 2017\Projects\WinSock\WinSock\obj\Release\WinSock.pdb
+C:\Users\CDI\Desktop\WinSock\WinSock\bin\Release\WinSock.exe.config
+C:\Users\CDI\Desktop\WinSock\WinSock\bin\Release\WinSock.exe
+C:\Users\CDI\Desktop\WinSock\WinSock\bin\Release\WinSock.pdb
+C:\Users\CDI\Desktop\WinSock\WinSock\obj\Release\WinSock.csprojResolveAssemblyReference.cache
+C:\Users\CDI\Desktop\WinSock\WinSock\obj\Release\WinSockTest.Form1.resources
+C:\Users\CDI\Desktop\WinSock\WinSock\obj\Release\WinSock.Properties.Resources.resources
+C:\Users\CDI\Desktop\WinSock\WinSock\obj\Release\WinSock.csproj.GenerateResource.Cache
+C:\Users\CDI\Desktop\WinSock\WinSock\obj\Release\WinSock.exe
+C:\Users\CDI\Desktop\WinSock\WinSock\obj\Release\WinSock.pdb
+D:\CDI\WinSock\WinSock\bin\Release\WinSock.exe.config
+D:\CDI\WinSock\WinSock\bin\Release\WinSock.exe
+D:\CDI\WinSock\WinSock\bin\Release\WinSock.pdb
+D:\CDI\WinSock\WinSock\obj\Release\WinSock.csprojResolveAssemblyReference.cache
+D:\CDI\WinSock\WinSock\obj\Release\WinSockTest.Form1.resources
+D:\CDI\WinSock\WinSock\obj\Release\WinSock.Properties.Resources.resources
+D:\CDI\WinSock\WinSock\obj\Release\WinSock.csproj.GenerateResource.Cache
+D:\CDI\WinSock\WinSock\obj\Release\WinSock.exe
+D:\CDI\WinSock\WinSock\obj\Release\WinSock.pdb

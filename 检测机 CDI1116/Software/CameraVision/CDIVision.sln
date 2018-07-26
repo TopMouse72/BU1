@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVS封装", "SVS封装\SVS封装.csproj", "{51CB455E-2AA3-4ABA-A402-D958BD10B02B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionDemo", "VisionDemo\VisionDemo.csproj", "{9EAFBBCC-190C-44E1-9207-BBC55CCC34A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDIVisionControl", "CDIVisionControl\CDIVisionControl.csproj", "{F174CF05-BB0A-478A-B384-44D34EFFAE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CB455E-2AA3-4ABA-A402-D958BD10B02B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{51CB455E-2AA3-4ABA-A402-D958BD10B02B}.Debug|x86.ActiveCfg = Debug|x86
+		{51CB455E-2AA3-4ABA-A402-D958BD10B02B}.Debug|x86.Build.0 = Debug|x86
+		{51CB455E-2AA3-4ABA-A402-D958BD10B02B}.Release|Any CPU.ActiveCfg = Release|x86
+		{51CB455E-2AA3-4ABA-A402-D958BD10B02B}.Release|Any CPU.Build.0 = Release|x86
+		{51CB455E-2AA3-4ABA-A402-D958BD10B02B}.Release|x86.ActiveCfg = Release|x86
+		{51CB455E-2AA3-4ABA-A402-D958BD10B02B}.Release|x86.Build.0 = Release|x86
+		{9EAFBBCC-190C-44E1-9207-BBC55CCC34A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAFBBCC-190C-44E1-9207-BBC55CCC34A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAFBBCC-190C-44E1-9207-BBC55CCC34A3}.Debug|x86.ActiveCfg = Debug|x86
+		{9EAFBBCC-190C-44E1-9207-BBC55CCC34A3}.Debug|x86.Build.0 = Debug|x86
+		{9EAFBBCC-190C-44E1-9207-BBC55CCC34A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAFBBCC-190C-44E1-9207-BBC55CCC34A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAFBBCC-190C-44E1-9207-BBC55CCC34A3}.Release|x86.ActiveCfg = Release|x86
+		{9EAFBBCC-190C-44E1-9207-BBC55CCC34A3}.Release|x86.Build.0 = Release|x86
+		{F174CF05-BB0A-478A-B384-44D34EFFAE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F174CF05-BB0A-478A-B384-44D34EFFAE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F174CF05-BB0A-478A-B384-44D34EFFAE40}.Debug|x86.ActiveCfg = Debug|x86
+		{F174CF05-BB0A-478A-B384-44D34EFFAE40}.Debug|x86.Build.0 = Debug|x86
+		{F174CF05-BB0A-478A-B384-44D34EFFAE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F174CF05-BB0A-478A-B384-44D34EFFAE40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F174CF05-BB0A-478A-B384-44D34EFFAE40}.Release|x86.ActiveCfg = Release|x86
+		{F174CF05-BB0A-478A-B384-44D34EFFAE40}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://172.16.0.198:8080/tfs/colibrigroup
+		SccProjectUniqueName0 = CDIVisionControl\\CDIVisionControl.csproj
+		SccProjectName0 = CDIVisionControl
+		SccLocalPath0 = CDIVisionControl
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = SVS封装\\SVS封装.csproj
+		SccProjectName2 = SVS封装
+		SccLocalPath2 = SVS封装
+		SccProjectUniqueName3 = VisionDemo\\VisionDemo.csproj
+		SccProjectName3 = VisionDemo
+		SccLocalPath3 = VisionDemo
+	EndGlobalSection
+EndGlobal

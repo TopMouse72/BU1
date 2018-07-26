@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDI", "CDI\CDI.csproj", "{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardWareEnum", "..\HardWareEnum 1.0.0.0\HardWareEnum.csproj", "{969B7A58-4AE7-40D8-8449-A985A86959F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwarePool", "..\HardwarePool\HardwarePool.csproj", "{E003BA67-508C-4FBB-A3F6-0F5E64B36554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		x64|Any CPU = x64|Any CPU
+		x64|x64 = x64|x64
+		x64|x86 = x64|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Debug|x64.Build.0 = Debug|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Debug|x86.Build.0 = Debug|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Release|x64.ActiveCfg = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Release|x64.Build.0 = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Release|x86.ActiveCfg = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.Release|x86.Build.0 = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.x64|Any CPU.ActiveCfg = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.x64|Any CPU.Build.0 = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.x64|x64.ActiveCfg = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.x64|x64.Build.0 = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.x64|x86.ActiveCfg = Release|Any CPU
+		{484F0236-90C7-4BF9-A0A1-4D2F2BDA3DBC}.x64|x86.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|x64.Build.0 = Debug|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|x86.Build.0 = Debug|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|x64.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|x64.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|x86.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|x86.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|Any CPU.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|Any CPU.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|x64.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|x64.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|x86.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|x86.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|x64.Build.0 = Debug|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|x86.Build.0 = Debug|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|x64.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|x64.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|x86.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|x86.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|Any CPU.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|Any CPU.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|x64.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|x64.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|x86.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C75F5B-C640-4744-9EBB-CB017F923325}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://172.16.0.198:8080/tfs/colibrigroup
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\HardwarePool\\HardwarePool.csproj
+		SccProjectName1 = ../HardwarePool
+		SccLocalPath1 = ..\\HardwarePool
+		SccProjectUniqueName2 = CDI\\CDI.csproj
+		SccProjectName2 = CDI
+		SccLocalPath2 = CDI
+		SccProjectUniqueName3 = ..\\HardWareEnum\u00201.0.0.0\\HardWareEnum.csproj
+		SccProjectName3 = ../HardWareEnum\u00201.0.0.0
+		SccLocalPath3 = ..\\HardWareEnum\u00201.0.0.0
+	EndGlobalSection
+EndGlobal

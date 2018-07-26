@@ -1,0 +1,22 @@
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\bin\Release\SVSCamera.dll.config
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\bin\Release\SVSCamera.dll
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\bin\Release\SVSCamera.pdb
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.CameraSetting.resources
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.CAMSetting.resources
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.Properties.Resources.resources
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\obj\x86\Release\SVS封装.csproj.GenerateResource.Cache
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\obj\x86\Release\SVS封装.csproj.CoreCompileInputs.cache
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.dll
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.pdb
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\obj\x86\Release\SVS封装.csproj.CopyComplete
+D:\BU1\检测机 CDI1116\Software\CameraVision\SVS封装\obj\x86\Release\SVS封装.csprojAssemblyReference.cache
+E:\share\Software\CameraVision\SVS封装\bin\Release\SVSCamera.dll.config
+E:\share\Software\CameraVision\SVS封装\bin\Release\SVSCamera.dll
+E:\share\Software\CameraVision\SVS封装\bin\Release\SVSCamera.pdb
+E:\share\Software\CameraVision\SVS封装\obj\x86\Release\SVS封装.csprojResolveAssemblyReference.cache
+E:\share\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.CameraSetting.resources
+E:\share\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.CAMSetting.resources
+E:\share\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.Properties.Resources.resources
+E:\share\Software\CameraVision\SVS封装\obj\x86\Release\SVS封装.csproj.GenerateResource.Cache
+E:\share\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.dll
+E:\share\Software\CameraVision\SVS封装\obj\x86\Release\SVSCamera.pdb

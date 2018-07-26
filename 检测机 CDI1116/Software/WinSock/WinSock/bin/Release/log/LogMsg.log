@@ -1,0 +1,25 @@
+2017年7月22日|16:23:42.391|Info|发送相机触发1
+2017年7月22日|16:23:42.768|Debug|Winsock|Winsock receive: CaptureFinish:1;
+2017年7月22日|16:23:42.768|Debug|WinSock|Receive from Cap finish: 1
+2017年7月22日|16:23:42.780|Info|发送相机触发2
+2017年7月22日|16:23:43.95|Debug|WinSock|Receive from Cap finish: 2
+2017年7月22日|16:23:43.95|Debug|Winsock|Winsock receive: CaptureFinish:2;
+2017年7月22日|16:23:43.96|Info|发送相机触发3
+2017年7月22日|16:23:43.422|Debug|Winsock|Winsock receive: MeasDone:1,37.692,93.853,22.479,6.608,15.928,16.335,15.872,2.250,1.910,End;CaptureFinish:3;
+2017年7月22日|16:23:43.422|Debug|WinSock|Receive Measure done: 1,37.692,93.853,22.479,6.608,15.928,16.335,15.872,2.250,1.910,
+2017年7月22日|16:23:43.422|Debug|WinSock|Receive from Cap finish: 3
+2017年7月22日|16:23:43.427|Info|CCD测量完成1
+2017年7月22日|16:23:43.968|Debug|Winsock|Winsock receive: MeasDone:2,37.672,93.887,22.476,6.605,15.925,16.337,15.871,2.246,1.913,End;
+2017年7月22日|16:23:43.968|Debug|WinSock|Receive Measure done: 2,37.672,93.887,22.476,6.605,15.925,16.337,15.871,2.246,1.913,
+2017年7月22日|16:23:43.969|Info|CCD测量完成2
+2017年7月22日|16:23:44.190|Debug|Winsock|Winsock receive: MeasDone:3,37.672,93.882,22.476,6.605,15.926,16.337,15.871,2.247,1.911,End;
+2017年7月22日|16:23:44.191|Info|CCD测量完成3
+2017年7月22日|16:23:44.190|Debug|WinSock|Receive Measure done: 3,37.672,93.882,22.476,6.605,15.926,16.337,15.871,2.247,1.911,
+2017年7月22日|16:37:23.958|Debug|Winsock|Winsock receive: CaptureFinish:1;
+2017年7月22日|16:37:23.962|Debug|WinSock|Receive from Cap finish: 1
+2017年7月22日|16:37:24.611|Debug|Winsock|Winsock receive: MeasDone:1,37.668,94.128,22.464,6.597,16.550,15.206,15.867,3.383,1.260,End;
+2017年7月22日|16:37:24.611|Debug|WinSock|Receive Measure done: 1,37.668,94.128,22.464,6.597,16.550,15.206,15.867,3.383,1.260,
+2017年7月22日|16:38:28.497|Debug|Winsock|Winsock receive: CaptureFinish:1;
+2017年7月22日|16:38:28.500|Debug|WinSock|Receive from Cap finish: 1
+2017年7月22日|16:38:29.153|Debug|WinSock|Receive Measure done: 1,37.663,93.878,22.471,6.600,15.926,16.314,15.872,2.247,1.917,
+2017年7月22日|16:38:29.153|Debug|Winsock|Winsock receive: MeasDone:1,37.663,93.878,22.471,6.600,15.926,16.314,15.872,2.247,1.917,End;

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Root>
+   <GTSAxisSortingPNPY axisresolution="1" unit="mm" scale="32" softlimitp="0" jogspeed="50" axisdir="Reverse" homelimitreturndis="2" homemode="Limiter" softlimitn="0" axistype="Step" defacc="6000" encresolution="1" homedirection="Negative" defspeed="900">
+      <Points>
+         <Pick position="-473" acc="0" speed="0" />
+         <NGBox1 position="-45" acc="0" speed="0" />
+         <NGBox2 position="-235" acc="0" speed="0" />
+         <NGBox3 position="-730" acc="0" speed="0" />
+         <NGBox4 position="-920" acc="0" speed="0" />
+      </Points>
+   </GTSAxisSortingPNPY>
+   <GTSAxisLoadInConveyor axisresolution="1" unit="mm" scale="22.53" softlimitp="0" jogspeed="50" axisdir="Reverse" homelimitreturndis="2" homemode="Limiter" softlimitn="0" axistype="Step" defacc="2000" encresolution="1" homedirection="Negative" defspeed="1000">
+      <Points>
+         <CellPitch position="135" acc="0" speed="0" />
+         <BackDistance position="-43.941" acc="0" speed="0" />
+      </Points>
+   </GTSAxisLoadInConveyor>
+   <GTSAxisLoadPNPZ axisresolution="1" encresolution="1" scale="1000" softlimitp="0" jogspeed="50" axisdir="Reverse" homelimitreturndis="2" homemode="Limiter" unit="mm" axistype="Servo" defacc="4000" softlimitn="0" homedirection="Negative" defspeed="1600">
+      <Points>
+         <Pick position="-42" acc="0" speed="0" />
+         <Place position="-40.437" acc="0" speed="0" />
+         <PlaceNG position="-45.439" acc="0" speed="0" />
+         <Idle position="-18.431" acc="0" speed="0" />
+      </Points>
+   </GTSAxisLoadPNPZ>
+   <GTSAxisLoadPNPY axisresolution="1" encresolution="1" scale="32" softlimitp="0" jogspeed="50" axisdir="Reverse" homelimitreturndis="2" homemode="Limiter" unit="mm" axistype="Step" defacc="6000" softlimitn="0" homedirection="Positive" defspeed="900">
+      <Points>
+         <Idle position="0" acc="0" speed="0" />
+         <Pick position="311.688" acc="0" speed="0" />
+         <Place position="658.688" acc="0" speed="0" />
+         <PlaceNG position="5.031" acc="0" speed="0" />
+         <SafeLimit position="486.688" acc="0" speed="0" />
+      </Points>
+   </GTSAxisLoadPNPY>
+   <GTSAxisTopAlignSide axisresolution="1" encresolution="1" scale="32" softlimitp="0" jogspeed="50" axisdir="Normal" homelimitreturndis="2" homemode="Limiter" unit="mm" axistype="Step" defacc="4000" softlimitn="0" homedirection="Negative" defspeed="600">
+      <Points>
+         <Release position="0" acc="0" speed="0" />
+         <Clamp position="39" acc="0" speed="0" />
+      </Points>
+   </GTSAxisTopAlignSide>
+   <GTSAxisTopAlignBottom axisresolution="1" encresolution="1" scale="320" softlimitp="0" jogspeed="50" axisdir="Normal" homelimitreturndis="2" homemode="Limiter" unit="mm" axistype="Step" defacc="1000" softlimitn="0" homedirection="Negative" defspeed="205">
+      <Points>
+         <Release position="0" acc="0" speed="0" />
+         <Clamp position="81" acc="0" speed="0" />
+      </Points>
+   </GTSAxisTopAlignBottom>
+   <GTSAxisTopAlignZClamp axisresolution="1" unit="mm" scale="320" softlimitp="0" jogspeed="50" axisdir="Normal" homelimitreturndis="2" homemode="Limiter" softlimitn="0" axistype="Step" defacc="400" encresolution="1" homedirection="Negative" defspeed="400">
+      <Points>
+         <Release position="0" acc="0" speed="0" />
+         <Clamp position="2.994" acc="0" speed="0" />
+      </Points>
+   </GTSAxisTopAlignZClamp>
+   <GTSAxisTopAlignTop axisresolution="1" encresolution="1" scale="32" softlimitp="0" jogspeed="50" axisdir="Normal" homelimitreturndis="2" homemode="Limiter" unit="mm" axistype="Step" defacc="1000" softlimitn="0" homedirection="Positive" defspeed="100">
+      <Points>
+         <Release position="0" acc="0" speed="0" />
+         <Clamp position="-18" acc="0" speed="0" />
+      </Points>
+   </GTSAxisTopAlignTop>
+   <GTSAxisTopAlignXSide axisresolution="1" encresolution="1" scale="24.6" softlimitp="0" jogspeed="50" axisdir="Reverse" homelimitreturndis="10" homemode="Limiter" unit="mm" axistype="Step" defacc="2200" softlimitn="0" homedirection="Positive" defspeed="400">
+      <Points>
+         <Idle position="45.813" acc="0" speed="0" />
+         <Step position="0" acc="0" speed="0" />
+      </Points>
+   </GTSAxisTopAlignXSide>
+   <GTSAxisTransPNPX axisresolution="1" unit="mm" scale="32" softlimitp="0" jogspeed="50" axisdir="Reverse" homelimitreturndis="2" homemode="Limiter" softlimitn="0" axistype="Step" defacc="6000" encresolution="1" homedirection="Negative" defspeed="900">
+      <Points>
+         <Idle position="0" acc="0" speed="0" />
+         <Load position="-434.781" acc="0" speed="0" />
+         <Unload position="-15" acc="0" speed="0" />
+         <SafeLimit position="-80" acc="0" speed="0" />
+      </Points>
+   </GTSAxisTransPNPX>
+   <GTSAxisUnloadPNPY axisresolution="1" encresolution="1" scale="32" softlimitp="0" jogspeed="50" axisdir="Reverse" homelimitreturndis="2" homemode="Limiter" unit="mm" axistype="Step" defacc="6000" softlimitn="0" homedirection="Negative" defspeed="850">
+      <Points>
+         <Pick position="-36" acc="0" speed="0" />
+         <Place position="-326" acc="0" speed="0" />
+      </Points>
+   </GTSAxisUnloadPNPY>
+   <GTSAxisThicknessMeasY axisresolution="1" unit="mm" scale="1000" softlimitp="0" jogspeed="50" axisdir="Normal" homelimitreturndis="2" homemode="Limiter" softlimitn="0" axistype="Servo" defacc="6000" encresolution="1" homedirection="Negative" defspeed="900">
+      <Points>
+         <Idle position="0.005" acc="0" speed="0" />
+         <Meas position="239.01" acc="0" speed="0" />
+      </Points>
+   </GTSAxisThicknessMeasY>
+   <GTSAxisOutlineMeasX axisresolution="1" unit="mm" scale="1000" softlimitp="0" jogspeed="50" axisdir="Normal" homelimitreturndis="2" homemode="Limiter" softlimitn="0" axistype="Servo" defacc="7000" encresolution="1" homedirection="Negative" defspeed="700">
+      <Points>
+         <Start position="142.444" acc="0" speed="0" />
+         <Pitch position="135" acc="0" speed="0" />
+         <GetPart position="6.438" acc="0" speed="0" />
+         <PartOut position="412.444" acc="0" speed="0" />
+      </Points>
+   </GTSAxisOutlineMeasX>
+   <GTSAxisUnloadOutConveyor axisresolution="1" unit="mm" scale="22.53" softlimitp="0" jogspeed="50" axisdir="Reverse" homelimitreturndis="2" homemode="Limiter" softlimitn="0" axistype="Step" defacc="1500" encresolution="1" homedirection="Negative" defspeed="1000">
+      <Points>
+         <Step position="135" acc="0" speed="0" />
+         <Shift position="420.905" acc="0" speed="0" />
+      </Points>
+   </GTSAxisUnloadOutConveyor>
+   <GTSAxisSortingPNPZ axisresolution="1" unit="mm" scale="1000" softlimitp="0" jogspeed="50" axisdir="Reverse" homelimitreturndis="2" homemode="Limiter" softlimitn="0" axistype="Servo" defacc="2000" encresolution="1" homedirection="Negative" defspeed="800">
+      <Points>
+         <Up position="-15.013" acc="0" speed="0" />
+         <Pick position="-39.012" acc="0" speed="0" />
+         <Place position="-43.012" acc="0" speed="0" />
+      </Points>
+   </GTSAxisSortingPNPZ>
+</Root>

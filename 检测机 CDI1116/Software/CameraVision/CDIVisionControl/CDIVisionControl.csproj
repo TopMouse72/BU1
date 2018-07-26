@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F174CF05-BB0A-478A-B384-44D34EFFAE40}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CDIVisionControl</RootNamespace>
+    <AssemblyName>CDIVisionControl</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Colibri.CommonModule, Version=2.0.4.34280, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\Colibri.CommonModule.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cst.cs" />
+    <Compile Include="DataInfo.cs" />
+    <Compile Include="FormCalibration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCalibration.Designer.cs">
+      <DependentUpon>FormCalibration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalFunc.cs" />
+    <Compile Include="Interface.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VisionControl.cs" />
+    <Compile Include="VisionSetting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VisionSetting.Designer.cs">
+      <DependentUpon>VisionSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VSMiddleCell.cs" />
+    <Compile Include="VSLeftCell.cs" />
+    <Compile Include="VSTest.cs" />
+    <Compile Include="VSBase.cs" />
+    <Compile Include="VSRightCell.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormCalibration.resx">
+      <DependentUpon>FormCalibration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisionSetting.resx">
+      <DependentUpon>VisionSetting.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lib\Colibri.CommonModule.dll" />
+    <Content Include="lib\cxcore100.dll" />
+    <Content Include="lib\highgui100.dll" />
+    <Content Include="lib\libguide40.dll" />
+    <Content Include="lib\MFC42.DLL" />
+    <Content Include="lib\MFC42D.DLL" />
+    <Content Include="lib\mfc42u.dll" />
+    <Content Include="lib\MFCO42D.DLL" />
+    <Content Include="lib\MIL.DLL" />
+    <Content Include="lib\milarc.dll" />
+    <Content Include="lib\MILBLOB.DLL" />
+    <Content Include="lib\milcor.dll" />
+    <Content Include="lib\MILDLL.dll" />
+    <Content Include="lib\milgen.dll" />
+    <Content Include="lib\MILHLP.dll" />
+    <Content Include="lib\MILHOST.DLL" />
+    <Content Include="lib\MILIM.DLL" />
+    <Content Include="lib\miljpg.dll" />
+    <Content Include="lib\MILMEAS.DLL" />
+    <Content Include="lib\milmet.dll" />
+    <Content Include="lib\milmet2.dll" />
+    <Content Include="lib\milmet2d.dll" />
+    <Content Include="lib\MILOCR.DLL" />
+    <Content Include="lib\milocx.dll" />
+    <Content Include="lib\MILPAT.DLL" />
+    <Content Include="lib\MILPAT_6.DLL" />
+    <Content Include="lib\milpul.dll" />
+    <Content Include="lib\MILTIFF.DLL" />
+    <Content Include="lib\milvb.dll" />
+    <Content Include="lib\milvcap.dll" />
+    <Content Include="lib\MILVGA.DLL" />
+    <Content Include="lib\MILVHOOK.DLL" />
+    <Content Include="lib\MSVCRTD.DLL" />
+    <Content Include="lib\Vision1.dll" />
+    <Content Include="lib\Vision2.dll" />
+    <Content Include="lib\Vision3.dll" />
+    <Content Include="lib\Vision4.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

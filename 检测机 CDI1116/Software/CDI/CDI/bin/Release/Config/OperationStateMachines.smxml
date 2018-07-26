@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="gb2312"?>
+<StateMachines>
+   <StateMachine name="CDIMainStateMachine" firststate="Idle">
+      <Transitions>
+         <Transition inputevent="Start" sourcestate="Idle" targetstate="CheckLoadIn" />
+         <Transition inputevent="NewCellReady" sourcestate="CheckLoadIn" targetstate="StartLoadin" />
+         <Transition inputevent="LoadinFinish" sourcestate="StartLoadin" targetstate="StartLoadPNP" />
+         <Transition inputevent="LoadPNPPlaceFinish" sourcestate="StartLoadPNP" targetstate="StartTopAlign" />
+         <Transition inputevent="TopAlignFinish" sourcestate="StartTopAlign" targetstate="TransPNPReady" />
+         <Transition inputevent="CellWorkAllFinish" sourcestate="TransPNPReady" targetstate="StartTransPNP" />
+         <Transition inputevent="ThichnessMeasFinish" sourcestate="StartThicknessMeas" targetstate="TransPNPReady" />
+         <Transition inputevent="CCDMeasFinish" sourcestate="StartCCDMeas" targetstate="StartUnloadPNP" />
+         <Transition inputevent="Unload" sourcestate="StartUnloadout" targetstate="CheckUnloadOut" />
+         <Transition inputevent="TransPNPPickFinish" sourcestate="StartTransPNP" targetstate="StartTopAlign" />
+         <Transition inputevent="TransPNPFinish" sourcestate="StartTransPNP" targetstate="StartThicknessMeas" />
+         <Transition inputevent="TransPNPFinish" sourcestate="StartTransPNP" targetstate="StartCCDMeas" />
+         <Transition inputevent="NotReady" sourcestate="CheckLoadIn" targetstate="CheckLoadIn" />
+         <Transition inputevent="LoadPNPPlaceFinish" sourcestate="StartLoadPNP" targetstate="TransPNPMoveLeft" />
+         <Transition inputevent="TransPNPMoveLeftFinish" sourcestate="TransPNPMoveLeft" targetstate="StartUnloadPNP" />
+         <Transition inputevent="LoadinFinish" sourcestate="StartLoadin" targetstate="CheckLoadIn" />
+         <Transition inputevent="WaitPNPFree" sourcestate="StartLoadPNP" targetstate="StartLoadPNP" />
+         <Transition inputevent="WaitPNPFree" sourcestate="StartUnloadPNP" targetstate="StartUnloadPNP" />
+         <Transition inputevent="ReadyUnload" sourcestate="CheckUnloadOut" targetstate="StartUnloadout" />
+         <Transition inputevent="SortingPickFinish" sourcestate="StartNGSorting" targetstate="CheckUnloadOut" />
+         <Transition inputevent="UnloadPlaceFinish" sourcestate="StartUnloadPNP" targetstate="StartNGSorting" />
+         <Transition inputevent="NotReady" sourcestate="CheckUnloadOut" targetstate="CheckUnloadOut" />
+         <Transition inputevent="WaitPNPFree" sourcestate="StartTransPNP" targetstate="StartTransPNP" />
+         <Transition inputevent="WaitPNPFree" sourcestate="StartNGSorting" targetstate="StartNGSorting" />
+         <Transition inputevent="UnloadPickFinish" sourcestate="StartUnloadPNP" targetstate="TransPNPReady" />
+      </Transitions>
+      <States>
+         <State class="CDIMainIdle" name="Idle" />
+         <State class="CDIMainCheckLoadIn" name="CheckLoadIn" />
+         <State class="CDIMainStartLoadin" name="StartLoadin" />
+         <State class="CDIMainStartLoadPNP" name="StartLoadPNP" />
+         <State class="CDIMainStartTopAlign" name="StartTopAlign" />
+         <State class="CDIMainTransPNPReady" name="TransPNPReady" />
+         <State class="CDIMainStartThicknessMeas" name="StartThicknessMeas" />
+         <State class="CDIMainStartCCDMeas" name="StartCCDMeas" />
+         <State class="CDIMainStartUnloadout" name="StartUnloadout" />
+         <State class="CDIMainStartTransPNP" name="StartTransPNP" />
+         <State class="CDIMainTransPNPMoveLeft" name="TransPNPMoveLeft" />
+         <State class="CDIMainStartUnloadPNP" name="StartUnloadPNP" />
+         <State class="CDIMainCheckUnloadOut" name="CheckUnloadOut" />
+         <State class="CDIMainStartNGSorting" name="StartNGSorting" />
+      </States>
+   </StateMachine>
+   <StateMachine name="LoadPNPLoadStateMachine" firststate="Idle">
+      <Transitions>
+         <Transition inputevent="Start" sourcestate="Idle" targetstate="PickPart" />
+         <Transition inputevent="LoadPNPPickPartFinish" sourcestate="PickPart" targetstate="PlacePart" />
+         <Transition inputevent="LoadPNPPlacePartFinish" sourcestate="PlacePart" targetstate="PlaceNGPart" />
+         <Transition inputevent="LoadPNPPlaceNGFinish" sourcestate="PlaceNGPart" targetstate="Idle" />
+         <Transition inputevent="WaitTopAlignFree" sourcestate="PlacePart" targetstate="PlacePart" />
+         <Transition inputevent="WaitBoxFree" sourcestate="PlaceNGPart" targetstate="PlaceNGPart" />
+      </Transitions>
+      <States>
+         <State class="LoadPNPLoadIdle" name="Idle" />
+         <State class="LoadPNPLoadPickPart" name="PickPart" />
+         <State class="LoadPNPLoadPlacePart" name="PlacePart" />
+         <State class="LoadPNPLoadPlaceNGPart" name="PlaceNGPart" />
+      </States>
+   </StateMachine>
+   <StateMachine name="TransPNPWorkStateMachine" firststate="Idle">
+      <Transitions>
+         <Transition inputevent="Start" sourcestate="Idle" targetstate="PickPart" />
+         <Transition inputevent="TransPNPPickFinish" sourcestate="PickPart" targetstate="PlacePart" />
+         <Transition inputevent="TransPNPPlaceFinish" sourcestate="PlacePart" targetstate="Idle" />
+         <Transition inputevent="WaitCCDReady" sourcestate="PlacePart" targetstate="PlacePart" />
+      </Transitions>
+      <States>
+         <State class="TransPNPWorkIdle" name="Idle" />
+         <State class="TransPNPWorkPickPart" name="PickPart" />
+         <State class="TransPNPWorkPlacePart" name="PlacePart" />
+      </States>
+   </StateMachine>
+   <StateMachine name="CCDMeasWorkStateMachine" firststate="Idle">
+      <Transitions>
+         <Transition inputevent="Start" sourcestate="Idle" targetstate="CCDMeasStart" />
+         <Transition inputevent="MoveCellFinish" sourcestate="MoveCell" targetstate="CCDMeasStart" />
+         <Transition inputevent="MeaureFinish" sourcestate="CCDMeasStart" targetstate="MoveCell" />
+         <Transition inputevent="AllFinish" sourcestate="MoveCell" targetstate="Idle" />
+      </Transitions>
+      <States>
+         <State class="CCDMeasWorkIdle" name="Idle" />
+         <State class="CCDMeasWorkMoveCell" name="MoveCell" />
+         <State class="CCDMeasWorkCCDMeasStart" name="CCDMeasStart" />
+      </States>
+   </StateMachine>
+   <StateMachine name="UnloadPNPWorkStateMachine" firststate="Idle">
+      <Transitions>
+         <Transition inputevent="Start" sourcestate="Idle" targetstate="PickPart" />
+         <Transition inputevent="UnloadPNPPickFinish" sourcestate="PickPart" targetstate="PlacePart" />
+         <Transition inputevent="UnloadPNPPlaceFinish" sourcestate="PlacePart" targetstate="Idle" />
+         <Transition inputevent="WaitUnloadOutEmpty" sourcestate="PlacePart" targetstate="PlacePart" />
+      </Transitions>
+      <States>
+         <State class="UnloadPNPWorkIdle" name="Idle" />
+         <State class="UnloadPNPWorkPickPart" name="PickPart" />
+         <State class="UnloadPNPWorkPlacePart" name="PlacePart" />
+      </States>
+   </StateMachine>
+   <StateMachine name="SortingPNPWorkStateMachine" firststate="Idle">
+      <Transitions>
+         <Transition inputevent="Start" sourcestate="Idle" targetstate="PickPart" />
+         <Transition inputevent="SortingPNPPickFinish" sourcestate="PickPart" targetstate="PlaceNG" />
+         <Transition inputevent="SortingPNPPlaceNGFinish" sourcestate="PlaceNG" targetstate="Idle" />
+      </Transitions>
+      <States>
+         <State class="SortingPNPWorkIdle" name="Idle" />
+         <State class="SortingPNPWorkPickPart" name="PickPart" />
+         <State class="SortingPNPWorkPlaceNG" name="PlaceNG" />
+      </States>
+   </StateMachine>
+</StateMachines>

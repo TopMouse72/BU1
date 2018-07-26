@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwarePool", "HardwarePool.csproj", "{E003BA67-508C-4FBB-A3F6-0F5E64B36554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwarePoolDemo", "..\HardwarePoolDemo\HardwarePoolDemo.csproj", "{325212AB-99E5-4856-BED6-76EC80854EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardWareEnum", "..\HardWareEnum 1.0.0.0\HardWareEnum.csproj", "{969B7A58-4AE7-40D8-8449-A985A86959F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		x64|Any CPU = x64|Any CPU
+		x64|x64 = x64|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Debug|x64.Build.0 = Debug|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|x64.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.Release|x64.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|Any CPU.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|Any CPU.Build.0 = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|x64.ActiveCfg = Release|Any CPU
+		{E003BA67-508C-4FBB-A3F6-0F5E64B36554}.x64|x64.Build.0 = Release|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.Debug|x64.Build.0 = Debug|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.Release|x64.ActiveCfg = Release|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.Release|x64.Build.0 = Release|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.x64|Any CPU.ActiveCfg = Release|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.x64|Any CPU.Build.0 = Release|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.x64|x64.ActiveCfg = Release|Any CPU
+		{325212AB-99E5-4856-BED6-76EC80854EC1}.x64|x64.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Debug|x64.Build.0 = Debug|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|x64.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.Release|x64.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|Any CPU.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|Any CPU.Build.0 = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|x64.ActiveCfg = Release|Any CPU
+		{969B7A58-4AE7-40D8-8449-A985A86959F9}.x64|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://alm:8080/tfs/colibrigroup
+		SccProjectUniqueName0 = HardwarePool.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = http://alm:8080/tfs/colibrigroup
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

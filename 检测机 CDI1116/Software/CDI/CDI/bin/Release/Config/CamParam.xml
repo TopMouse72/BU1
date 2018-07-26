@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<CameraPara xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CameraSize>
+    <Width>4896</Width>
+    <Height>3264</Height>
+  </CameraSize>
+  <CameraKX>0.0395</CameraKX>
+  <CameraKY>0.0395</CameraKY>
+  <CurrentZoom>50</CurrentZoom>
+  <LineTolerance>5</LineTolerance>
+</CameraPara>

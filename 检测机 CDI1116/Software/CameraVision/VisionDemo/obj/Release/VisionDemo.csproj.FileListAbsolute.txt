@@ -1,0 +1,33 @@
+d:\CDI exe\Vision\VisionDemo.exe.config
+d:\CDI exe\Vision\VisionDemo.exe
+d:\CDI exe\Vision\VisionDemo.pdb
+d:\CDI exe\Vision\VisionDemo.exe.CodeAnalysisLog.xml
+d:\CDI exe\Vision\VisionDemo.exe.lastcodeanalysissucceeded
+D:\BU1\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\CDIVisionControl.MainForm.resources
+D:\BU1\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.Properties.Resources.resources
+D:\BU1\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csproj.GenerateResource.cache
+D:\BU1\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csproj.CoreCompileInputs.cache
+D:\BU1\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csproj.CopyComplete
+D:\BU1\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.exe
+D:\BU1\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.pdb
+D:\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csprojAssemblyReference.cache
+D:\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\CDIVisionControl.MainForm.resources
+D:\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.Properties.Resources.resources
+D:\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csproj.GenerateResource.cache
+D:\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csproj.CoreCompileInputs.cache
+D:\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csproj.CopyComplete
+D:\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.exe
+D:\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.pdb
+D:\BU1\检测机 CDI1116\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csprojAssemblyReference.cache
+E:\share\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csprojResolveAssemblyReference.cache
+E:\share\Software\CameraVision\VisionDemo\obj\Release\CDIVisionControl.MainForm.resources
+E:\share\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.Properties.Resources.resources
+E:\share\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csproj.GenerateResource.Cache
+E:\share\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.exe
+E:\share\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.pdb
+E:\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csprojResolveAssemblyReference.cache
+E:\Software\CameraVision\VisionDemo\obj\Release\CDIVisionControl.MainForm.resources
+E:\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.Properties.Resources.resources
+E:\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.csproj.GenerateResource.Cache
+E:\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.exe
+E:\Software\CameraVision\VisionDemo\obj\Release\VisionDemo.pdb

@@ -1,0 +1,21 @@
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardWareEnum 1.0.0.0\bin\Release\HardWareEnum.dll
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardWareEnum 1.0.0.0\bin\Release\HardWareEnum.pdb
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.csprojResolveAssemblyReference.cache
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.dll
+F:\KuaiPan\hchen\Desktop\新建文件夹 (2)\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.pdb
+C:\Users\CDI\Desktop\HardWareEnum 1.0.0.0\bin\Release\HardWareEnum.dll
+C:\Users\CDI\Desktop\HardWareEnum 1.0.0.0\bin\Release\HardWareEnum.pdb
+C:\Users\CDI\Desktop\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.dll
+C:\Users\CDI\Desktop\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.pdb
+C:\Users\CDI\Desktop\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.csprojResolveAssemblyReference.cache
+D:\CDI\HardWareEnum 1.0.0.0\bin\Release\HardWareEnum.dll
+D:\CDI\HardWareEnum 1.0.0.0\bin\Release\HardWareEnum.pdb
+D:\CDI\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.dll
+D:\CDI\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.pdb
+D:\CDI\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.csprojResolveAssemblyReference.cache
+D:\BU1\检测机 CDI1116\Software\HardWareEnum 1.0.0.0\bin\Release\HardWareEnum.dll
+D:\BU1\检测机 CDI1116\Software\HardWareEnum 1.0.0.0\bin\Release\HardWareEnum.pdb
+D:\BU1\检测机 CDI1116\Software\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.csproj.CoreCompileInputs.cache
+D:\BU1\检测机 CDI1116\Software\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.dll
+D:\BU1\检测机 CDI1116\Software\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.pdb
+D:\BU1\检测机 CDI1116\Software\HardWareEnum 1.0.0.0\obj\Release\HardWareEnum.csprojAssemblyReference.cache
